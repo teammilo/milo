@@ -1,4 +1,8 @@
-function addution(a,b){
+function addition(a,b){
     var result = a+b;
+    console.log(result);
+}
+function substraction(a,b){
+    var result = a-b;
     console.log(result);
 }
